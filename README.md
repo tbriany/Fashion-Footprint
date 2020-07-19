@@ -10,9 +10,7 @@ An app that allows brands to share their designs and styles pre-season so that c
 
 Built with React.js, Node.js with Express, PostgreSQL, and Bootstrap.
 
-![langingpage](./assets/Screen Shot 2020-07-06 at 6.07.23 PM.png)
-![homepage](./assets/Screen Shot 2020-07-06 at 6.10.54 PM.png)
-![materialspage](./assets/Screen Shot 2020-07-06 at 6.11.31 PM.png)
+![langingpage](./assets/ScreenShot2020-07-06at6.07.23 PM.png)
 
 ## Features
 
