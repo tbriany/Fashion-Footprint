@@ -70,7 +70,4 @@ You can check for these dependencies with node -v and psql -v. If your shell/ter
  
 A new browser tab should have been opened and the App should be running. If that is not the case check the terminals output for errors, if you are unable to troubleshoot the problem, I would be happy to address issues so open one
 
-## Database Structure
-![database](./assets/database.jpg)
-
 [Wireframes](./assets/wireframes.md)
