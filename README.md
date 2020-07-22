@@ -14,6 +14,8 @@ Built with React.js, Node.js with Express, PostgreSQL, and Bootstrap.
 ![homepage](./assets/homepage.png)
 ![materialspage](./assets/materialspage.png)
 
+[Wireframes](./assets/wireframes.md)
+
 ## Features
 
 Users are able to:
@@ -73,5 +75,3 @@ You can check for these dependencies with node -v and psql -v. If your shell/ter
    npm start
  
 A new browser tab should have been opened and the App should be running. If that is not the case check the terminals output for errors, if you are unable to troubleshoot the problem, I would be happy to address issues so open one
-
-[Wireframes](./assets/wireframes.md)
